@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name lm7805smd)(type Legacy)(uri /home/acobaugh/projects/audio-interrupter/library/KiCAD/2020-01-02_00-56-22/2020-01-02_00-56-22.lib)(options "")(descr ""))
+  (lib (name lm555cm)(type Legacy)(uri /home/acobaugh/projects/audio-interrupter/library/lm555cm/KiCAD/2020-01-02_01-10-17/2020-01-02_01-10-17.lib)(options "")(descr ""))
+  (lib (name audio-interrupter-rescue)(type Legacy)(uri ${KIPRJMOD}/audio-interrupter-rescue.lib)(options "")(descr ""))
+)
